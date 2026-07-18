@@ -1,0 +1,8 @@
+{
+  "name": "Myanmar KyarrKwat",
+  "description": "Multiplayer Myanmar Checkers Game",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
