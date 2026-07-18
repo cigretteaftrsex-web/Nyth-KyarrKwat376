@@ -1,0 +1,49 @@
+{
+  "name": "မြန်မာ ကျားကွက်",
+  "short_name": "ကျားကွက်",
+  "description": "Myanmar Checkers Multiplayer Game — Online + AI Mode",
+  "start_url": "./auth.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06050E",
+  "theme_color": "#06050E",
+  "lang": "my",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "ကစားမည်",
+      "short_name": "ကစား",
+      "description": "မြန်မာ ကျားကွက် ကစားရန်",
+      "url": "./auth.html",
+      "icons": [{ "src": "logo.png", "sizes": "192x192" }]
+    }
+  ],
+  "prefer_related_applications": false
+}
